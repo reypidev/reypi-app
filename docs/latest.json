@@ -1,7 +1,7 @@
 {
   "version": "1.0.1",
   "notes": "Correções e melhorias:\n- Ajuste na Folha: envio para Banco de Horas pinta período em preto\n- Bloqueios e avisos do modo Teste (10 dias)\n- Checagem automática de atualização ao iniciar",
-  "installerUrl": "https://SEU-DOMINIO/updates/ReypiRelogioPonto_Setup_1.0.1.exe",
+  "installerUrl": "https://reypidev.github.io/reypi-app/downloads/ReypiRelogioPonto_Setup_1.0.1.exe",
   "releaseDate": "2025-01-20T12:00:00Z",
   "minimumSupportedVersion": "1.0.0",
   "sha256": "SUBSTITUA_COM_HASH_SHA256_DO_INSTALLER"
