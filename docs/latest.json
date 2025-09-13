@@ -1,8 +1,8 @@
 {
-  "version": "1.0.2",
-  "notes": "Atualizações da versão 1.0.2:\n- Atualização da string de conexão PostgreSQL para novo servidor\n- Correção do telefone de suporte para (35) 99157-9995\n- Configuração do sistema de atualização automática\n- Melhorias na verificação de licenças\n- Correções gerais de estabilidade",
-  "installerUrl": "https://reypidev.github.io/reypi-app/downloads/ReypiRelogioPonto_v1.0.2.exe",
-  "releaseDate": "2025-01-21T10:00:00Z",
+  "version": "1.0.3",
+  "notes": "Nova versão 1.0.3 com melhorias importantes:\n\n• Sistema de auditoria completo implementado\n• Logs detalhados de todas as ações CRUD\n• Interface melhorada na tabela de logs\n• Correções de alinhamento nos formulários\n• Melhorias na seleção de texto nos campos\n• Sistema de atualização automática\n\nEsta atualização inclui correções de bugs e melhorias de performance.",
+  "installerUrl": "https://reypidev.github.io/reypi-app/downloads/ReypiRelogioPonto_Setup_v1.0.3.exe",
+  "releaseDate": "2025-09-12T10:00:00Z",
   "minimumSupportedVersion": "1.0.0",
-  "sha256": "F1DDD2FF1642B39DFB192AC09428B09DA2DA88CD201695EBDC249F623515203A"
+  "sha256": "710F9FF8FCCC8FD8C47691215518E123B9E289A06DF25D0810BBCB3571940F2A"
 }
