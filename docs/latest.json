@@ -1,8 +1,8 @@
 {
-  "version": "1.0.3",
-  "notes": "Nova versão 1.0.3 com melhorias importantes:\n\n• Sistema de auditoria completo implementado\n• Logs detalhados de todas as ações CRUD\n• Interface melhorada na tabela de logs\n• Correções de alinhamento nos formulários\n• Melhorias na seleção de texto nos campos\n• Sistema de atualização automática\n\nEsta atualização inclui correções de bugs e melhorias de performance.",
-  "installerUrl": "https://reypidev.github.io/reypi-app/downloads/ReypiRelogioPonto_Setup_v1.0.3.exe",
+  "version": "1.0.4",
+  "notes": "Nova versão 1.0.4 com melhorias importantes:\n\n• Sistema de auditoria completo implementado\n• Logs detalhados de todas as ações CRUD\n• Interface melhorada na tabela de logs\n• Correções de alinhamento nos formulários\n• Melhorias na seleção de texto nos campos\n• Sistema de atualização automática otimizado\n• Verificação de atualização antes da abertura do sistema\n\nEsta atualização inclui correções de bugs e melhorias de performance.",
+  "installerUrl": "https://reypidev.github.io/reypi-app/downloads/ReypiRelogioPonto_Setup_v1.0.4.exe",
   "releaseDate": "2025-09-12T10:00:00Z",
   "minimumSupportedVersion": "1.0.0",
-  "sha256": "710F9FF8FCCC8FD8C47691215518E123B9E289A06DF25D0810BBCB3571940F2A"
+  "sha256": "F6D57B7CD770E082F52181C28673BB54C5B108FF34E981E7534DC33F905CE17B"
 }
