@@ -1,8 +1,8 @@
 {
-  "version": "1.0.6",
-  "notes": "Nova versão 1.0.6 com melhorias importantes:\n\n• Sistema de auditoria completo implementado\n• Logs detalhados de todas as ações CRUD\n• Interface melhorada na tabela de logs\n• Correções de alinhamento nos formulários\n• Melhorias na seleção de texto nos campos\n• Sistema de atualização automática otimizado\n• Verificação de atualização antes da abertura do sistema\n• Correção do botão 'Buscar' na tela de licença\n• Tratamento robusto de erros na Folha de Ponto\n\nEsta atualização inclui correções de bugs e melhorias de performance.",
-  "installerUrl": "https://reypidev.github.io/reypi-app/downloads/ReypiRelogioPonto_Setup_v1.0.6.exe",
+  "version": "1.0.8",
+  "notes": "Nova versão 1.0.8 com correções críticas:\n\n• CORREÇÃO CRÍTICA: Resolvido erro 'Nenhuma empresa encontrada' no cadastro de administrador\n• CORREÇÃO CRÍTICA: Eliminado loop infinito de recursão no sistema de auditoria\n• CORREÇÃO CRÍTICA: Corrigido travamento na tela de licença durante confirmação\n• CORREÇÃO CRÍTICA: Resolvido problema de inserção de empresa na primeira instalação\n• Melhorias na estabilidade do sistema de logs\n• Otimização do processo de inicialização do sistema\n• Correção de problemas de threading no Program.cs\n• Melhorias na confiabilidade do sistema de auditoria\n• Correção de problemas de conexão com banco de dados\n• Interface mais estável e responsiva\n• Correção de problemas de memória em operações de longa duração\n• Melhorias na validação de licenças\n\nEsta atualização resolve problemas críticos que impediam o funcionamento correto do sistema na primeira instalação.",
+  "installerUrl": "https://reypidev.github.io/reypi-app/downloads/ReypiRelogioPonto_Setup_v1.0.8.exe",
   "releaseDate": "2025-09-14T10:00:00Z",
   "minimumSupportedVersion": "1.0.0",
-  "sha256": "CC9F06BF5518C0B48C52AC48129A147AB28B6EDC0A7AC0C7B92426284F7C12470"
+  "sha256": "AFED6CA1E95945EB6918432AF92CBC6A415A440AE0F6C783C1F124C506ADA245"
 }
