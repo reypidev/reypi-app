@@ -1,8 +1,8 @@
 {
-  "version": "1.0.8",
-  "notes": "Nova versão 1.0.8 com correções críticas:\n\n• CORREÇÃO CRÍTICA: Resolvido erro 'Nenhuma empresa encontrada' no cadastro de administrador\n• CORREÇÃO CRÍTICA: Eliminado loop infinito de recursão no sistema de auditoria\n• CORREÇÃO CRÍTICA: Corrigido travamento na tela de licença durante confirmação\n• CORREÇÃO CRÍTICA: Resolvido problema de inserção de empresa na primeira instalação\n• Melhorias na estabilidade do sistema de logs\n• Otimização do processo de inicialização do sistema\n• Correção de problemas de threading no Program.cs\n• Melhorias na confiabilidade do sistema de auditoria\n• Correção de problemas de conexão com banco de dados\n• Interface mais estável e responsiva\n• Correção de problemas de memória em operações de longa duração\n• Melhorias na validação de licenças\n\nEsta atualização resolve problemas críticos que impediam o funcionamento correto do sistema na primeira instalação.",
-  "installerUrl": "https://reypidev.github.io/reypi-app/downloads/ReypiRelogioPonto_Setup_v1.0.8.exe",
-  "releaseDate": "2025-09-14T10:00:00Z",
+  "version": "1.0.9",
+  "notes": "Nova versão 1.0.9 com melhorias no sistema de atualização:\n\n• NOVA FUNCIONALIDADE: Sistema de atualização inteligente - detecta automaticamente se é executável ou instalador\n• NOVA FUNCIONALIDADE: Atualização rápida apenas do executável (sem reinstalação completa)\n• NOVA FUNCIONALIDADE: Primeira instalação não verifica atualizações desnecessariamente\n• CORREÇÃO: Resolvido travamento na tela de atualização durante download\n• CORREÇÃO: Interface de atualização mais responsiva e estável\n• CORREÇÃO: Processo de substituição de executável mais seguro com backup automático\n• CORREÇÃO: Limpeza automática de arquivos temporários após atualização\n• MELHORIA: Sistema de detecção inteligente de tipo de atualização\n• MELHORIA: Reinicialização automática após atualização bem-sucedida\n• MELHORIA: Tratamento robusto de erros durante processo de atualização\n• MELHORIA: Compatibilidade mantida com versões antigas (instaladores)\n\nEsta versão otimiza significativamente o processo de atualização, tornando-o mais rápido e confiável.",
+  "installerUrl": "https://reypidev.github.io/reypi-app/ReypiRelogioPonto_v1.0.9.exe",
+  "releaseDate": "2025-09-15T10:00:00Z",
   "minimumSupportedVersion": "1.0.0",
-  "sha256": "AFED6CA1E95945EB6918432AF92CBC6A415A440AE0F6C783C1F124C506ADA245"
+  "sha256": "C4787B1C4974BD950DB8013AB47D70BADB159C0F501975CE5FE0918EE76CEA28"
 }
