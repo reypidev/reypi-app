@@ -1,9 +1,9 @@
 {
-  "version": "1.1.7",
-  "notes": "Versão 1.1.7 - atualização rápida apenas do executável.",
-  "executableUrl": "https://reypidev.github.io/reypi-app/downloads/ReypiRelogioPonto_Setup_v1.1.7.exe",
+  "version": "1.1.8",
+  "notes": "Versão 1.1.8 - atualização rápida apenas do executável.",
+  "executableUrl": "https://reypidev.github.io/reypi-app/downloads/ReypiRelogioPonto_Setup_v1.1.8.exe",
   "installerUrl": "",
   "releaseDate": "2025-09-16T10:00:00Z",
   "minimumSupportedVersion": "1.0.0",
-  "sha256": "7373477EA54EED87CE3D658AD19A22CC2C1EE575759A9CF2DDB58E11A6A2BAD7"
+  "sha256": "6DB2C37FCA8FECCCEDB503C1933E25D8B84A6127C8B5DC5BBB0BAE7B9F8E6190"
 }
