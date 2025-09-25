@@ -1,10 +1,10 @@
 {
-  "version": "1.1.3",
-  "notes": "Versão 1.1.3 - Sistema de atualização automática aprimorado:\n\n• NOVA FUNCIONALIDADE: Verificação de atualização no momento do login (não mais no início)\n• NOVA FUNCIONALIDADE: Tela de progresso centralizada e sem botões de controle\n• NOVA FUNCIONALIDADE: Reinicialização automática após atualização bem-sucedida\n• CORREÇÃO: Fluxo de atualização otimizado para instalações existentes\n• CORREÇÃO: Primeira instalação não verifica atualizações desnecessariamente\n• CORREÇÃO: Interface de atualização mais limpa e profissional\n• MELHORIA: Sistema de detecção inteligente de tipo de atualização\n• MELHORIA: Tratamento robusto de erros durante processo de atualização\n• MELHORIA: Compatibilidade mantida com versões antigas (instaladores)\n• MELHORIA: Logs mais informativos para debug\n\nEsta versão implementa o fluxo de atualização solicitado, com verificação no momento correto e interface aprimorada.",
-  "executableUrl": "https://reypidev.github.io/reypi-app/downloads/RReypiRelogioPonto_v1.1.3.exe",
+  "version": "1.1.4",
+  "notes": "Versão 1.1.4 - Correções e melhorias no auto-update.",
+  "executableUrl": "https://reypidev.github.io/reypi-app/downloads/RReypiRelogioPonto_v1.1.4.exe",
   "installerUrl": "",
   "releaseDate": "2025-09-24T10:00:00Z",
   "critical": false,
   "minimumSupportedVersion": "1.0.0",
-  "sha256": "9790FC4B45522AC07B773BF7263466E3D0A2D399719E069E2BDC531026EB6EF9"
+  "sha256": "F3470A5BB319AEFE3DD38DAA3C8966DD285FE54C20A81CFAE633077B424B21F7"
 }
