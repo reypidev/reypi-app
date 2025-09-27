@@ -1,10 +1,13 @@
 {
-  "version": "1.1.4",
-  "notes": "Versão 1.1.4 - Correções e melhorias no auto-update.",
-  "executableUrl": "https://reypidev.github.io/reypi-app/downloads/RReypiRelogioPonto_v1.1.4.exe",
-  "installerUrl": "",
-  "releaseDate": "2025-09-24T10:00:00Z",
+  "version": "1.1.2",
+  "notes": "Versão 1.1.2 - Correções e melhorias no auto-update:\n\n• Fluxo sem SmartScreen (cópia por stream, sem executar arquivo baixado)\n• Limpeza de MOTW no destino antes de relançar o EXE instalado\n• Logs detalhados do processo de atualização em Logs/update_apply.log\n\nInclui melhorias de estabilidade e ajustes de UI.",
+  "executableUrl": "https://reypidev.github.io/reypi-app/downloads/RReypiRelogioPonto_v1.1.2.exe",
+  "url": "https://reypidev.github.io/reypi-app/downloads/RReypiRelogioPonto_v1.1.2.exe",
+  "changelog": "",
+  "mandatory": false,
+  "releaseDate": "2025-09-27T10:00:00Z",
   "critical": false,
+  "minVersion": "1.0.0",
   "minimumSupportedVersion": "1.0.0",
-  "sha256": "F3470A5BB319AEFE3DD38DAA3C8966DD285FE54C20A81CFAE633077B424B21F7"
+  "sha256": "7E1CFA7FC2E467E9B8CA323FE593583E989C2434FBD9920E5AB8344E7DE16F3F"
 }
