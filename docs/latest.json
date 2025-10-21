@@ -1,12 +1,6 @@
 {
-  "version": "1.0.4",
-  "notes": "Versão 1.0.4 - Correção de bugs e melhorias de desempenho.",
-  "executableUrl": "https://reypidev.github.io/reypi-app/releases/RReypiRelogioPonto.exe",
-  "url": "https://reypidev.github.io/reypi-app/releases/RReypiRelogioPonto.exe",
-  "mandatory": false,
-  "releaseDate": "2025-10-21T10:00:00Z",
-  "critical": false,
-  "minVersion": "1.0.0",
-  "minimumSupportedVersion": "1.0.0",
-  "sha256": "34C0B86AD67792345A14763B5BF304182E3C259FF44D24AA3A9E6F8953BB17E2"
+  "version": "1.0.5",
+  "notes": "Correções e melhorias",
+  "installerUrl": "https://reypidev.github.io/reypi-app/releases/RReypiRelogioPonto.exe",
+  "critical": false
 }
