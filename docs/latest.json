@@ -1,6 +1,6 @@
 {
-  "version": "1.0.12",
-  "notes": "Correções e melhorias",
-  "installerUrl": "https://reypidev.github.io/reypi-app/releases/ReypiUpdate_1.0.12.zip",
+  "version": "1.0.14",
+  "notes": "Correções de bugs e melhorias de desempenho.",
+  "executableUrl": "https://reypidev.github.io/reypi-app/releases/RReypiRelogioPonto.exe",
   "critical": false
 }
